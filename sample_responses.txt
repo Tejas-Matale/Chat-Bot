@@ -1,0 +1,30 @@
+Q: Who is the highest rated player in the dataset?
+A: Fabio Gamba
+
+Q: Which club has the most players listed?
+A: Wolverhampton Wanderers
+
+Q: What is the average potential of players from Brazil?
+A: 0
+
+Q: List the top 5 youngest players with the highest potential.
+A: J. Caiçara Medipol Başakşehir FK Brazil
+
+Q: What is the total market value of all players in Real Madrid?
+A: £2 million
+
+Q: Which players have a wage greater than 200K and overall rating above 85?
+A: Lus Maximiano Sporting
+
+Q: Who are the top 3 players from Argentina?
+A: E. Rueda
+
+Q: What positions are most common among players under age 21?
+A: RB
+
+Q: Who is the oldest goalkeeper in the dataset?
+A: F. Camara
+
+Q: How many players are left-footed vs right-footed?
+A: 2
+
