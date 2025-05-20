@@ -10,3 +10,6 @@ Combines relevant text fields for knowledge representation.
 Uses FAISS for fast document retrieval.
 
 Uses Hugging Face google/flan-t5-base for answering questions.
+
+Output:-
+![Image](https://github.com/user-attachments/assets/5d0ea802-182e-4bd2-a6f8-8d43c6fa756f)
